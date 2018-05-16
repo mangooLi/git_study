@@ -8,4 +8,5 @@
 >git is free software under GPL
 
 
-
+### 工作区和暂存区
+>git has a mutable index called stage
