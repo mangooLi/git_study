@@ -10,3 +10,6 @@
 
 ### 工作区和暂存区
 >git has a mutable index called stage
+
+###   管理修改
+>change once
