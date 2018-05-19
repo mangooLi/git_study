@@ -22,3 +22,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6JL8aLKpXtxm76v1eTMHlPrLjEATyHUPD7JpZvSjL
 
 
 Creating a new branch is quick AND simple. (feature1)
+
+
+changed to dev model 
