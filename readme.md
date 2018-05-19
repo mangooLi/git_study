@@ -21,7 +21,7 @@ MINGW64:/c/Users/liam0/.ssh
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6JL8aLKpXtxm76v1eTMHlPrLjEATyHUPD7JpZvSjLdYBu7AwHHCLNBlEvaMzfBmg5ZYvQHKd5HBM5VjM3iNN0iQqSgdyrQj5c+NnnIt/sBKGOiEgUswcad1kFBDvi0c+KtEGwpiPhotdE1FMMv/5laT2kxQk1Rr+slv7Typv0ogMaAJRgk69MCf3UjkZ8HHk94a02XZrqXjVYYPPtt1oWLg1soWX3kLbAFZThMEwfQAKfqWfx+aA5LmkjhrEZvgG1iHIzdbtc4gRu/fGKRNEWvr979Fy/wTIFWMdZq51f0W1QyaJXO3SqJvB1TSNSAYEyU3rLGcNJelLntbTZavoN lee1074280209@gmail.com
 
 
-Creating a new branch is quick AND simple. (feature1)
+Creating a new branch is quick AND simple. (feature1) when you fix bug
 
 
 changed to dev model 
