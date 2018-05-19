@@ -25,3 +25,5 @@ Creating a new branch is quick AND simple. (feature1) when you fix bug
 
 
 changed to dev model 
+
+something ready to commit 
